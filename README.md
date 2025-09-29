@@ -7,7 +7,7 @@ STM32F10x(Cortex‑M3) 기반 미니게임으로 SPI TFT LCD을 통한 그래픽
 | 항목 | 내용 |
 |:---|:---|
 | **사용한 디바이스** | Cortex-M3 (STM32F10x 시리즈), 320x240 SPI TFT LCD |
-| **언어 / 툴** | C, GCC/ARM/Keil, ST-Link |
+| **언어 / 툴** | C, GCC Compiler, CP2102 Driver, Tera Term |
 
 ---
 ## 🕹️ 게임 정보
