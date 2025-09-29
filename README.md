@@ -2,8 +2,12 @@
 STM32F10x(Cortex‑M3) 기반 미니게임으로 SPI TFT LCD을 통한 그래픽 출력,<br>
 타이머·외부 인터럽트를 이용하여 입력과 루프를 처리합니다.<br> 
 
-사용한 디바이스: (Cortex‑M3) STM32F10x 시리즈 MICOM, 320×240 SPI TFT LCD <br>
-언어 / 툴: C, GCC/ARM/Keil, ST‑Link<br> 
+## 🛠️ 개발 환경
+
+| 항목 | 내용 |
+|:---|:---|
+| **사용한 디바이스** | Cortex-M3 (STM32F10x 시리즈), 320x240 SPI TFT LCD |
+| **언어 / 툴** | C, GCC/ARM/Keil, ST-Link |
 
 ---
 ## 🕹️ 게임 정보
