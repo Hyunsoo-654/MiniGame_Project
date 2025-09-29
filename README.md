@@ -1,16 +1,12 @@
-# 📌 '경찰과 도둑' 미니게임 프로젝트
-
-### 🎯 프로젝트 개요
-STM32보드를 활용하여
+# 🎮 '경찰과 도둑' 미니게임 프로젝트
+STM32F10x(Cortex‑M3) 기반 2D 러너/점프 회피 게임. SPI TFT LCD에 그래픽을 표시하고, 타이머·외부 인터럽트로 게임 루프와 입력을 처리합니다. ARM 아키텍처 수업의 GAME_PROJECT 예제를 레퍼런스 삼아 로직/그래픽/하드웨어 제어를 재구성했습니다.
+플랫폼: STM32F10x 시리즈 MICOM, Cortex‑M3
+디스플레이: 320×240 SPI TFT (예: ILI9341 호환)
+언어/툴: C, GCC/ARM/Keil/STM32CubeIDE, ST‑Link
 ---
-
-### 💻 개발 환경
-
-| 구분        | 사용 도구 / 언어 |
-| :-----: | :-----: |
-| **EDA Tools** | Xilinx Vivado HLx Editions, Synopsys VCS, Synopsys Verdi |
-| **Languages** | SystemVerilog, MATLAB |
-| **IDE / Tools** | Visual Studio Code, MobaXterm |
+# 📌게임 소개
+제목: 경찰과 도둑
+게임 목표: 레벨 10까지 경찰들과 장애물을 피해 도망가세요!
 
 ---
 
